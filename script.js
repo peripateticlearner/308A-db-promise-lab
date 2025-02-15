@@ -1,4 +1,4 @@
-// Importing database functions. DO NOT MODIFY THIS LINE.
+// Importing database functions. DO NOT MODIFY THIS LINE
 import { central, db1, db2, db3, vault } from "./database.js";
 
 /*
